@@ -2,8 +2,6 @@
 基于 jQuery简洁的(M)VC
 
 
-**并非原创**
-
 原文:[javascript组件化](http://purplebamboo.github.io/2015/03/16/javascript-component/)
 
 做了部分修改,并命名空间取名`Spine`,功能因类似`backbone`所以想到用不一样单词描述`[骨架]`,源自`基于MVC的JavaScript Web富应用开发`书作者的[http://spinejs.com/](http://spinejs.com/)
