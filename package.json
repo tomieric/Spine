@@ -1,0 +1,24 @@
+{
+  "name": "Spine",
+  "version": "1.0.0",
+  "description": "基于 jQuery简洁的(M)VC",
+  "main": "Spine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d reciper"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomieric/Spine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tomieric/Spine/issues"
+  },
+  "homepage": "https://github.com/tomieric/Spine#readme",
+  "devDependencies": {
+    "gh-pages": "^0.12.0"
+  }
+}
