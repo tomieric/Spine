@@ -17,11 +17,11 @@
     "normalColor": "#666",
     "primaryColor": "#000",
     "logoUrl": "",
-    "logoHref": "./intro/",
-    "home": "./",
+    "logoHref": "/Spine/intro/",
+    "home": "/Spine/",
     "languages": [ "xml", "markdown", "bash" ],
     "items": [
-      { "text": "Introduction", "href": "./intro/" },
+      { "text": "Introduction", "href": "/Spine/intro/" },
       { "text": "Github", "href": "https://github.com/tomieric/Spine/", "target": "_blank" }
     ]
   },
